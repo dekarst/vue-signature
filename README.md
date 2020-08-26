@@ -1,4 +1,14 @@
-# vue-signature
+# Vue Signature
+
+## Features
+It is a simple signature component. The component allows users to sign documents in three different ways:
+* By typing
+* By uploading an image of a signature
+* By drawing
+
+## Technologies
+* [VueJS](https://vuejs.org/)
+* [Signature Pad](https://www.npmjs.com/package/signature_pad)
 
 ## Project setup
 ```
@@ -19,6 +29,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
